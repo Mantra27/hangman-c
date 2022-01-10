@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include "dev.h"
+#include "work.h"
 #include <string.h>
 
 int main(){
