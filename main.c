@@ -17,7 +17,7 @@ int main(){
     printf("Hi, Welcome to Hangman game; try guessing the first letter out of %d", letters);
     printf(" letters\n");
 
-    printf("Possible letters----> ");
+    printf("Possible words----> ");
    for(int j = 0; j<(length(words_lib)/2 ) - 1; j++){
        printf("%s", words_lib[j]);
        printf(", ");
